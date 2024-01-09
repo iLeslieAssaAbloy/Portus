@@ -43,7 +43,7 @@ gem "typhoeus"
 gem "bcrypt"
 
 # If the deployment is done through Puma, include it in the bundle.
-gem "puma", ">= 5.6.7"
+gem "puma", ">= 5.6.8"
 
 # Configuration management
 gem "cconfig", "~> 1.2.0"
